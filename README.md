@@ -1,9 +1,4 @@
 # sundown-studio-website-clone
-Sure! Here's the updated README file with information about exploring GSAP and mastering hosting:
-
----
-
-# Sundown Studio Website Clone
 
 This project is a replica of the Sundown Studio website, created to showcase my front-end development skills. The Sundown Studio website is a platform for showcasing photography portfolios and selling prints.
 
